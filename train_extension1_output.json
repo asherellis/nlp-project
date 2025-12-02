@@ -1,7 +1,7 @@
 {
   "q001": {
     "question": "According to the article, what controversies or issues arose during Griffin Bell\u2019s confirmation process to become attorney general?",
-    "answer": "Griffin Bell's memberships in private segregated clubs and some of his decisions as a federal judge became issues during his confirmation process as attorney general. He was confirmed in January 1977 by a Senate vote of 75 to 21, despite these controversies. The sometimes difficult Senate hearings were a result of these concerns.",
+    "answer": "Griffin Bell's memberships in private segregated clubs and some of his decisions as a federal judge became issues during his confirmation process to become attorney general in 1977. He was confirmed in January 1977 by a Senate vote of 75 to 21 after sometimes difficult Senate hearings.",
     "retrieved_docs": [
       {
         "doc_id": "cnn_dailymail__2adfd057c88ef32c9d192a00f1a5e63bafeb4ace",
@@ -37,7 +37,7 @@
   },
   "q002": {
     "question": "What were the main political tensions surrounding India's proposed civil nuclear partnership with the United States?",
-    "answer": "The main political tensions surrounding India's proposed civil nuclear partnership with the United States stemmed from concerns that India was kowtowing to the U.S. and surrendering its sovereignty. The opposition to the deal was led by the leaders of India's two communist parties, who accused Prime Minister Manmohan Singh of compromising India's interests. The deal also sparked a no-confidence vote in Parliament, which Singh narrowly survived with a vote of 275-256.",
+    "answer": "The main political tensions surrounding India's proposed civil nuclear partnership with the United States stemmed from concerns that India was kowtowing to the U.S. and surrendering its sovereignty, as accused by the leaders of India's two communist parties. The opposition also feared that the deal would compromise India's non-proliferation commitments. This opposition led to an unsuccessful no-confidence vote against Prime Minister Manmohan Singh, which he narrowly survived.",
     "retrieved_docs": [
       {
         "doc_id": "cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
@@ -73,7 +73,7 @@
   },
   "q003": {
     "question": "According to the article, how many extra ballots did the electoral commission request beyond the number of registered voters, and how many stations reportedly lacked proper accreditation for opposition agents?",
-    "answer": "The electoral commission reportedly requested 3.3 million extra ballots beyond the number of registered voters, including 250,000 extra postal ballots for soldiers and police. Additionally, the Zimbabwe Electoral Commission claimed to have lost the accreditation for agents at 19 polling stations.",
+    "answer": "According to the article, the electoral commission requested 3.3 million more ballots than there are registered voters, including 250,000 extra postal ballots for soldiers and police. The Zimbabwe Electoral Commission claimed to have lost the accreditation for agents at 19 stations, refusing to let them in.",
     "retrieved_docs": [
       {
         "doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
@@ -109,7 +109,7 @@
   },
   "q004": {
     "question": "Based solely on this historical overview, what percentage of Rwanda\u2019s population in 2024 belongs to the Tutsi ethnic group, and how has that percentage changed over time?",
-    "answer": "The document does not provide sufficient information to determine the percentage of Rwanda's population in 2024 that belongs to the Tutsi ethnic group, nor does it contain information on how that percentage has changed over time.",
+    "answer": "The document does not provide sufficient information to answer this question.",
     "retrieved_docs": [
       {
         "doc_id": "the-world-factbook-by-cia__Rwanda",
@@ -217,7 +217,7 @@
   },
   "q007": {
     "question": "How has the dynastic leadership structure shaped North Korea\u2019s political system and strategic behavior over time?",
-    "answer": "The dynastic leadership structure in North Korea has shaped its political system and strategic behavior over time, with the KIM family consolidating power and cementing autocratic one-party rule under the Korean Worker's Party (KWP). Under the leadership of KIM Il Sung, his son KIM Jong Il, and grandson KIM Jong Un, the regime has prioritized its core objective of unifying Korea under Pyongyang's control, while also pursuing nuclear weapons development and ballistic missiles. This dynastic leadership structure has enabled a high degree of continuity and stability in North Korea's strategic behavior, despite significant economic setbacks and internal challenges.",
+    "answer": "North Korea's dynastic leadership structure has been characterized by autocratic one-party rule under the Korean Worker's Party (KWP) since its founding in 1948 under President KIM Il Sung, with power subsequently passed to his son KIM Jong Il and then his grandson KIM Jong Un. This leadership structure has enabled the Kim family to consolidate power and shape the country's economic, military, and political policies around the core objective of unifying Korea under Pyongyang's control. KIM Il Sung and his successors have also implemented policies such as \"juche\" (\"self-reliance\") to reduce outside influence and maintain control over the population.",
     "retrieved_docs": [
       {
         "doc_id": "the-world-factbook-by-cia__Korea,_North",
@@ -253,7 +253,7 @@
   },
   "q008": {
     "question": "How did Dominica transition from European colonial rule to an independent state, and what political shift in 1980 significantly changed the country's governance trajectory?",
-    "answer": "The document does not provide sufficient information to answer this question as it does not mention Dominica at all.",
+    "answer": "The document does not provide information on Dominica. It discusses Rwanda's history, which was dominated by European colonial powers including Germany and Belgium. There is no mention of Dominica or a significant political shift in 1980 in the provided document.",
     "retrieved_docs": [
       {
         "doc_id": "the-world-factbook-by-cia__Rwanda_history",
@@ -325,7 +325,7 @@
   },
   "q010": {
     "question": "Based only on this article, what was Mali\u2019s exact defense budget in 2020, and how much financial assistance did it receive from ECOWAS before the sanctions were imposed?",
-    "answer": "The document does not provide sufficient information to answer this question, including Mali\u2019s exact defense budget in 2020 and any financial assistance it received from ECOWAS before the sanctions were imposed.",
+    "answer": "The document does not provide sufficient information to answer this question.",
     "retrieved_docs": [
       {
         "doc_id": "the-world-factbook-by-cia__Mali_history",
@@ -361,7 +361,7 @@
   },
   "q011": {
     "question": "Based only on this article, what was the total number of jobs created under Oman\u2019s national job creation plan issued after the 2011 unrest?",
-    "answer": "The national public- and private-sector job creation plan was issued by QABOOS, but the article does not provide information on the total number of jobs created under the plan.",
+    "answer": "The document does not provide sufficient information to answer this question.",
     "retrieved_docs": [
       {
         "doc_id": "the-world-factbook-by-cia__Oman_history",
@@ -397,7 +397,7 @@
   },
   "q012": {
     "question": "How did Russia\u2019s inability to make scheduled payments on its foreign bonds escalate into what analysts considered a default, and what specific factors\u2014including sanctions\u2014made the situation effectively unavoidable?",
-    "answer": "Russia's inability to make scheduled payments on its foreign bonds escalated into what analysts considered a default when the US Treasury Department's Office of Foreign Assets Control (OFAC) effectively blocked Moscow from making payments, which was considered an insurmountable roadblock in late May. This situation was further exacerbated by sanctions imposed over Russia's war in Ukraine, which prevented intermediaries from transferring payments, making the default effectively unavoidable.",
+    "answer": "Russia's inability to make scheduled payments on its foreign bonds escalated into what analysts considered a default when the US Treasury Department's Office of Foreign Assets Control (OFAC) effectively blocked Moscow from making payments, making the situation effectively unavoidable. The sanctions imposed over its war in Ukraine, combined with Russia's reliance on intermediaries for international payments, created an insurmountable roadblock for Russia's efforts to avoid the default.",
     "retrieved_docs": [
       {
         "doc_id": "russia-ukraine-conflict_2022-06-27T14_23_05Z",
@@ -433,7 +433,7 @@
   },
   "q013": {
     "question": "What broader economic and geopolitical consequences did analysts expect from Russia\u2019s 2022 foreign-debt default, and why was the impact considered less severe than the country\u2019s default in the late 1990s?",
-    "answer": "Investment analysts are cautiously reckoning that a Russian default would not have the kind of impact on global financial markets and institutions that came from its default in 1998. This is likely because Russia cannot borrow internationally at the moment and does not need to, thanks to plentiful oil and gas export revenues.",
+    "answer": "Investment analysts cautiously reckoned that a Russian default would not have the kind of impact on global financial markets and institutions that came from its default in 1998. This was because Russia cannot borrow internationally at the moment and does not need to thanks to plentiful oil and gas export revenues. Russia's default in 1998 had a significant impact on global markets, particularly in the US, as it led to the bail-out of Long-Term Capital Management, a large US hedge fund.",
     "retrieved_docs": [
       {
         "doc_id": "russia-ukraine-conflict_2022-06-27T14_23_05Z",
@@ -469,7 +469,7 @@
   },
   "q014": {
     "question": "How did Russian officials publicly respond to accusations of default, and what rationale did they use to argue that the responsibility for non-payment lay outside Moscow\u2019s control?",
-    "answer": "Russian officials publicly responded to accusations of default by denying the country was in default, with Vladimir Putin's spokesperson, Dmitry Peskov, calling the claims \"absolutely unjustified\" and saying it was \"not our problem\" that sanctions had prevented intermediaries from transferring the payments. According to Peskov, Russia has the funds to cover the payments and has been forced into non-payment due to the sanctions imposed by western countries.",
+    "answer": "Russian officials publicly responded to accusations of default by denying that the country was in default, with Vladimir Putin's spokesperson, Dmitry Peskov, calling the claims \"absolutely unjustified\". He further stated that it was \"not our problem\" that sanctions had prevented intermediaries from transferring the payments, implying that the responsibility for non-payment lay outside Moscow's control due to external sanctions.",
     "retrieved_docs": [
       {
         "doc_id": "russia-ukraine-conflict_2022-06-27T14_23_05Z",
@@ -505,7 +505,7 @@
   },
   "q015": {
     "question": "How did public statements from President Biden and General Lord Richards describe different weaknesses in Western responses to Russia\u2019s invasion of Ukraine?",
-    "answer": "President Biden stated that Ukrainian President Zelenskiy \"didn't want to hear\" warnings of the Russian invasion, implying a potential weakness in Ukraine's response. General Lord Richards, on the other hand, argued that Western leaders lacked a long-term strategy in the conflict, adopting a \"let's see how it goes\" approach and failing to show decisiveness. This suggests that Richards believes the main weakness lies within the Western leadership's decision-making and planning.",
+    "answer": "President Biden suggested that Ukraine's president, Volodymyr Zelenskiy, failed to take warnings of the Russian invasion seriously, implying that Ukraine's response was weak due to a lack of preparation. In contrast, General Lord Richards criticized Western leaders for lacking a long-term strategy in the conflict, accusing them of adopting a \"let's see how it goes\" approach and failing to show decisiveness. He argued that this lack of strategy was due to a failure in coordinating ends, ways, and means, and that leaders still did not know how they wanted the war to end or what kind of Russia they sought to shape.",
     "retrieved_docs": [
       {
         "doc_id": "russia-ukraine-conflict_2022-06-11T12_01_17Z",
@@ -541,7 +541,7 @@
   },
   "q016": {
     "question": "According to this reporting, what specific risks did Zelenskiy warn would result from Russia blocking Ukrainian ports, and which regions of the world did he say would be most affected?",
-    "answer": "The UN had warned that the war risked mass malnutrition, hunger, and famine, with global food prices already at record levels, and this crisis was particularly affecting developing countries. The UN secretary general, Ant\u00f3nio Guterres, specifically mentioned that it would bring relief for developing countries on the edge of bankruptcy and the most vulnerable people on the edge of famine, and quoted the International Committee of the Red Cross' Robert Mardini, saying that the deal was \"nothing short of life-saving for people across the world who are struggling to feed their families\".",
+    "answer": "The document does not provide information on specific warnings from Zelenskiy about the risks of Russia blocking Ukrainian ports. However, UN officials are quoted as warning that the war risked mass malnutrition, hunger, and famine.",
     "retrieved_docs": [
       {
         "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-22T16_41_06Z",
@@ -613,7 +613,7 @@
   },
   "q018": {
     "question": "How did Russia\u2019s reduction of gas flows through Nord Stream 1 affect Germany\u2019s projected consumer gas prices and energy planning, and why were German officials concerned about the period following the pipeline\u2019s scheduled July shutdown?",
-    "answer": "Germany, particularly, is expected to have to make bigger savings to help the bloc of states meet its reduction targets due to its reliance on Russian gas. Klaus M\u00fcller, the head of the country's federal network agency, warned of difficult months ahead as the situation will change in the autumn when gas consumption will rise, particularly for heating.",
+    "answer": "Germany's projected consumer gas prices and energy planning were likely affected by Russia's reduction of gas flows through Nord Stream 1, as the country relied heavily on Russian gas and had to make bigger savings to meet the European Union's gas reduction targets. German officials were concerned about the period following the pipeline's scheduled maintenance work, particularly in the autumn when gas consumption would rise due to the country's strong reliance on gas for heating, making it difficult to meet the reduction targets.",
     "retrieved_docs": [
       {
         "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T15_09_05Z 2",
@@ -649,7 +649,7 @@
   },
   "q019": {
     "question": "According to this report, how long could Germany operate without any Russian gas if its storage facilities were completely full, and what specific condition did officials say would trigger this calculation?",
-    "answer": "According to the report, Germany's storage target is 90% by December. Officials said that if Russian gas deliveries via the Nord Stream 1 pipeline continue to remain at the low level of 40%, the storage target of 90% by December cannot be reached without additional measures.",
+    "answer": "According to the report, Germany's economic minister Habeck said that if gas deliveries via the Nord Stream 1 pipeline remain at the low level of 40%, a storage target of 90% by December cannot be reached without additional measures, implying that Germany could operate without any Russian gas at 40% of its capacity.",
     "retrieved_docs": [
       {
         "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
@@ -685,7 +685,7 @@
   },
   "q020": {
     "question": "Based on the reporting, what risks did Ukrainian officials and international observers identify regarding Russian military activity around the Zaporizhzhia nuclear plant, and how might these actions affect regional safety or military dynamics?",
-    "answer": "The document does not provide sufficient information to answer this question regarding the Zaporizhzhia nuclear plant, as it only mentions the Russian offensive around the city of Izium and other locations, without any specific references to the Zaporizhzhia nuclear plant.",
+    "answer": "The document does not provide sufficient information to answer this question.",
     "retrieved_docs": [
       {
         "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
@@ -721,7 +721,7 @@
   },
   "q021": {
     "question": "How did pre-colonial political structures, European colonial rule, and post-independence power struggles contribute to the ethnic tensions that culminated in the 1994 genocide in Rwanda?",
-    "answer": "Pre-colonial political structures, particularly the Rwandan royal court centered on the Tutsi king, and European colonial rule, which reinforced existing trends toward autocratic and exclusionary rule, led to the elimination of traditional positions of authority for Hutus. This contributed to simmering resentment and ethnic tensions between Hutus and Tutsis, which ultimately culminated in the 1959 overthrow of the Tutsi king and the subsequent genocide in 1994.",
+    "answer": "Pre-colonial Rwandan political structures, particularly the centralized kingdom dominated by the Tutsi monarchs, contributed to ethnic tensions. European colonial rule, led by both German and Belgian forces, reinforced existing autocratic and exclusionary rules, leading to the elimination of traditional Hutu positions of authority and exacerbating resentment among the Hutu population. This resentment eventually exploded in 1959, and continued through the post-independence period, with extremist Hutu factions gaining prominence and eventually culminating in the 1994 genocide.",
     "retrieved_docs": [
       {
         "doc_id": "the-world-factbook-by-cia__Rwanda_history",
@@ -757,7 +757,7 @@
   },
   "q022": {
     "question": "How did opposition parties and civil society actors describe the main threats to the fairness of Zimbabwe\u2019s election, and why were these concerns especially significant given the political context surrounding Robert Mugabe\u2019s long rule?",
-    "answer": "Critics of the government, including the opposition party Movement for Democratic Change, have predicted that the elections will be rigged or marred by fraud, citing concerns such as widespread irregularities, the deployment of soldiers and police at polling stations, and the government's denial of international media and independent observers. The opposition has also alleged that the electoral commission is partisan toward Zanu-PF and lacks expertise and resources to run the elections properly. These concerns are especially significant given Robert Mugabe's long rule, which has been marked by a decline in the country's economy and a consolidation of power, leading critics to worry that he will stop at nothing to maintain his grip on power.",
+    "answer": "Opposition parties and civil society actors described the main threats to the fairness of Zimbabwe's election as irregularities, rigging, and fraud, citing instances of soldiers and police deployment at polling stations, voter intimidation, and allegations of dead voters still on voter rolls. Critics also pointed to the Zimbabwe Electoral Commission's alleged partisanship towards the ruling Zanu-PF party and its lack of expertise and resources to run the elections properly. These concerns were significant given the political context surrounding Robert Mugabe's long rule, as his consolidation of power over all aspects of Zimbabwean life and his country's severe economic decline under his leadership had created an environment where opposition parties felt they could not trust the electoral process to be free and fair.",
     "retrieved_docs": [
       {
         "doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
@@ -793,7 +793,7 @@
   },
   "q023": {
     "question": "How was Russia using its natural gas exports as a tool of political influence over Europe in mid-2022, and what kinds of pressure did this create for EU governments, especially Germany?",
-    "answer": "According to Ukrainian president Volodymyr Zelenskiy, Russia was deliberately cutting supplies of natural gas to impose a \"price terror\" against Europe. This move, allegedly made by Russia using Gazprom, was intended to make the coming winter as harsh as possible for European countries.",
+    "answer": "Russia was using its natural gas exports as a tool of political influence over Europe in mid-2022 by deliberately cutting supplies, according to Ukrainian President Volodymyr Zelenskiy, in an attempt to impose a \"price terror\" against Europe. This move sharply increased pressure in the Urengoy-Pomary-Uzhgorod pipeline, which delivers Russian gas to Europe, and raised concerns about pipeline ruptures, although the exact impact on Germany is not specified in the document.",
     "retrieved_docs": [
       {
         "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
@@ -829,7 +829,7 @@
   },
   "q024": {
     "question": "According to the historical account provided, which foreign powers competed for influence over Korea in the late 19th and early 20th centuries, and what key wars shaped this period?",
-    "answer": "Korea became the object of intense imperialistic rivalry among the Chinese, Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. This period was shaped by two key wars: the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-05). These wars ultimately led to Korea being occupied by Imperial Japan in 1910.",
+    "answer": "Korea became the object of intense imperialistic rivalry among the Chinese, Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. The two key wars that shaped this period were the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-05).",
     "retrieved_docs": [
       {
         "doc_id": "the-world-factbook-by-cia__Korea_North_history",
