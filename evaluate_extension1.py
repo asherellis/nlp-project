@@ -421,7 +421,7 @@ if llm_results:
     results['llm_judge'] = llm_results
     print_results("llm_judge", llm_results)
 
-all_evaluation = {'hybrid_rag': results}
+all_evaluation = {'rag': results}
 
 output_file = f"{split}_extension1_evaluation.json"
 with open(output_file, 'w') as f:

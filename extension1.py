@@ -213,7 +213,7 @@ def query_groq(prompt):
         print(f"\nError: {e}", file=sys.stderr)
         return "Error generating answer"
 
-def hybrid_rag_predict(
+def rag_predict(
     question,
     bm25_index,
     doc_texts,
@@ -326,7 +326,7 @@ for idx, item in enumerate(questions):
         continue
     question_id = item.get("question_id", f"q{idx+1:03d}")
     
-    prediction = hybrid_rag_predict(
+    prediction = rag_predict(
         question,
         bm25_index,
         doc_texts,

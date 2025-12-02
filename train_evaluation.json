@@ -1172,7 +1172,7 @@
           "question_id": "q003",
           "answer_score_raw": 2,
           "answer_score_normalized": 0.4,
-          "answer_rationale": "The model answer does not provide any numbers, only stating that it lacks the required information. This is a correct response given the lack of article content, but it does not attempt to extract any figures from the article.",
+          "answer_rationale": "The model answer does not provide any numbers, only stating that it requires an article to be mentioned, which is not relevant to the question.",
           "evidence_score": 0.0,
           "combined_score": 0.2,
           "gold_sentences": [
@@ -1221,7 +1221,7 @@
           "question_id": "q007",
           "answer_score_raw": 4,
           "answer_score_normalized": 0.8,
-          "answer_rationale": "The model answer accurately describes the dynastic succession and its effects on governance (authoritarian and centralized power structure) and strategy (emphasis on national security, regime survival, and military capabilities). However, it omits the specific ideological rigidity of juche and the nuclear/missile development aspect.",
+          "answer_rationale": "The model answer accurately describes the dynastic succession and its effects on governance (authoritarian and centralized power structure) and strategy (emphasis on national security, regime survival, and military capabilities). However, it omits the specific ideological rigidity of juche, which is a key factual element mentioned in the gold answer.",
           "evidence_score": 0.0,
           "combined_score": 0.4,
           "gold_sentences": [
@@ -1240,7 +1240,7 @@
           "question_id": "q008",
           "answer_score_raw": 4,
           "answer_score_normalized": 0.8,
-          "answer_rationale": "The model answer correctly describes the colonial timeline, mentions Mary Eugenia Charles, and includes the correct dates of independence. However, it inaccurately states that Dominica was under British rule from 1763 to 1978, and it also misses the detail of associated statehood in 1967.",
+          "answer_rationale": "The model answer correctly describes the colonial timeline, mentions Mary Eugenia Charles, and includes the correct dates of independence. However, it incorrectly states that Dominica was under French rule from 1690 to 1763, and it misses the detail of associated statehood in 1967.",
           "evidence_score": 0.0,
           "combined_score": 0.4,
           "gold_sentences": [

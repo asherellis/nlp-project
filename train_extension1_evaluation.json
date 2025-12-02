@@ -1,5 +1,5 @@
 {
-  "hybrid_rag": {
+  "rag": {
     "retrieval": {
       "recall_at_1": 14,
       "recall_at_5": 16,
