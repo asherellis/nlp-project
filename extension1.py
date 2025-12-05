@@ -28,6 +28,11 @@ try:
 except LookupError:
     nltk.download("punkt", quiet=True)
 
+try:
+    nltk.data.find("tokenizers/punkt_tab")
+except LookupError:
+    nltk.download("punkt_tab", quiet=True)
+
 _punkt_param = PunktParameters()
 _punkt_param.abbrev_types = set([
     'dr', 'vs', 'mr', 'mrs', 'ms', 'prof', 'inc', 'u.s', 'e.g', 'i.e', 
