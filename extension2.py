@@ -6,7 +6,7 @@ def check_and_install_dependencies():
         'nltk': 'nltk',
         'groq': 'groq',
         # add sentence transformer for the reranking
-        'sentence-transformers': 'sentence-transformers'
+        'sentence_transformers': 'sentence-transformers'
     }
     for module_name, pip_name in required_packages.items():
         try:
@@ -25,9 +25,10 @@ from nltk.tokenize import word_tokenize
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 from groq import Groq
 from sentence_transformers import Cross_Encoder
+import numpy as np
 
 cross_encoder_name = "cross-encoder/ms-marco-MiniLM-L-6-v2"
-rerank_model = Cross_Encoder(cross_encoder_name)
+rerank_model = CrossEncoder(cross_encoder_name)
 
 
 try:
@@ -149,7 +150,7 @@ def BM25_topN(question, bm25_index, doc_texts, N=30):
     top_ids = np.argsort(scores)[::-1][:N]
     top_texts = [doc_texts[i] for i in top_ids]
 
-    return top_ids, top_texts
+    return top_ids, top_texts, scores
     
 # Add the rerank function - will take smaller pool from BM25_topN
 def rerank_encoder(question, top_ids, top_texts, k=5):
@@ -160,9 +161,8 @@ def rerank_encoder(question, top_ids, top_texts, k=5):
     sorted_by_reranking.sort(key = lambda x:x[2], reverse = True)
     top_retrieved = sorted_by_reranking[:k]
     top_ids = [ids for ids, _, _ in top_retrieved]
-    top_texts = [text for _, text, _ in top_retrieved]
 
-    return top_ids, top_texts
+    return top_ids
 
 
 
@@ -266,14 +266,23 @@ def rag_predict(
             "evidence_sentences": [],
         }
 
-    query_tokens = tokenize(question)
-    scores = bm25_index.get_scores(query_tokens)
+    # query_tokens = tokenize(question)
+    # scores = bm25_index.get_scores(query_tokens)
+    # top_indices = sorted(
+    #     range(len(scores)), key=lambda i: scores[i], reverse=True
+    # )[:k]
+    N = max(k * 5, 30)
+    cand_id, cand_text, scores = BM25_topN(question, bm25_index, doc_texts, N)
+    # top_score = scores[top_indices[0]] if top_indices else 0.0
 
-    top_indices = sorted(
-        range(len(scores)), key=lambda i: scores[i], reverse=True
-    )[:k]
-
-    top_score = scores[top_indices[0]] if top_indices else 0.0
+    if not cand_id:
+        return {
+            "answer": "I cannot answer this question as no documents are available in the corpus.",
+            "retrieved_docs": [],
+            "evidence_sentences": [],
+        }
+    
+    top_score = scores[cand_id[0]] if cand_id else 0.0
 
     if top_score < score_threshold:
         return {
@@ -281,6 +290,9 @@ def rag_predict(
             "retrieved_docs": [],
             "evidence_sentences": [],
         }
+    
+    # these are the finalized id and score
+    new_id = rerank_encoder(question, cand_id, cand_text, k)
 
     retrieved_docs = [
         {
@@ -290,7 +302,7 @@ def rag_predict(
             "text": doc_texts[idx],
             "structure": doc_structures[idx] if idx < len(doc_structures) else None
         }
-        for rank, idx in enumerate(top_indices)
+        for rank, idx in enumerate(new_id)
     ]
 
     # Generate answer using LLM from top-ranked document
@@ -316,7 +328,7 @@ def rag_predict(
     }
 
 parser = argparse.ArgumentParser(
-    description="Run Extension 1: RAG (BM25 retrieval + LLM generation)."
+    description="Run Extension 2: RAG (BM25 retrieval + Cross-Encoder Reranking + LLM generation)."
 )
 parser.add_argument(
     "split",
@@ -336,7 +348,7 @@ args = parser.parse_args()
 split = args.split
 input_file = f"NLP Project Data/{split}_final_jsonl.txt"
 doc_dir = "corpus"
-output_file = f"{split}_extension1_output.json"
+output_file = f"{split}_extension2_output.json"
 score_threshold = args.score_threshold
 
 questions = load_jsonl(input_file)
