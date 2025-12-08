@@ -24,7 +24,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.tokenize.punkt import PunktSentenceTokenizer, PunktParameters
 from groq import Groq
-from sentence_transformers import Cross_Encoder
+from sentence_transformers import CrossEncoder
 import numpy as np
 
 cross_encoder_name = "cross-encoder/ms-marco-MiniLM-L-6-v2"
@@ -275,14 +275,14 @@ def rag_predict(
     cand_id, cand_text, scores = BM25_topN(question, bm25_index, doc_texts, N)
     # top_score = scores[top_indices[0]] if top_indices else 0.0
 
-    if not cand_id:
+    if len(cand_id) == 0:
         return {
             "answer": "I cannot answer this question as no documents are available in the corpus.",
             "retrieved_docs": [],
             "evidence_sentences": [],
         }
     
-    top_score = scores[cand_id[0]] if cand_id else 0.0
+    top_score = scores[cand_id[0]] if len(cand_id) > 0 else 0.0
 
     if top_score < score_threshold:
         return {
@@ -361,7 +361,7 @@ print(f"BM25 index built. Ready to process questions.", file=sys.stderr)
 
 predictions = {}
 print("\n" + "=" * 60 + "\n")
-print(f"Running Extension 1: RAG Baseline")
+print(f"Running Extension 2: RAG Baseline (with rerank function)")
 print(f"Using top-1 document for answer generation")
 print(f"Processing {len(questions)} questions...")
 print("=" * 60 + "\n")
