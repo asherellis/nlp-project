@@ -1,0 +1,180 @@
+{
+  "rag_extension3": {
+    "retrieval": {
+      "recall_at_1": 2,
+      "recall_at_5": 2,
+      "total": 3,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "gold_doc_id": "russia-ukraine-conflict_2022-07-21",
+          "retrieved_top_1": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+          "recall_at_1": 0,
+          "recall_at_5": 0
+        },
+        {
+          "question_id": "q002",
+          "gold_doc_id": "the-world-factbook-by-cia__Oman_history",
+          "retrieved_top_1": "the-world-factbook-by-cia__Oman_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q003",
+          "gold_doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "retrieved_top_1": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        }
+      ],
+      "recall_at_1_pct": 66.66666666666666,
+      "recall_at_5_pct": 66.66666666666666
+    },
+    "citation": {
+      "total_questions": 3,
+      "questions_with_evidence": 3,
+      "precision_sum": 1.8,
+      "recall_sum": 1.6333333333333333,
+      "f1_sum": 1.7090909090909092,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "gold_doc_id": "russia-ukraine-conflict_2022-07-21",
+          "gold_sentences": [
+            "S6"
+          ],
+          "pred_sentences": [
+            "S14",
+            "S27",
+            "S28",
+            "S30"
+          ],
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0
+        },
+        {
+          "question_id": "q002",
+          "gold_doc_id": "the-world-factbook-by-cia__Oman_history",
+          "gold_sentences": [
+            "S5",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S3",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "precision": 0.8,
+          "recall": 0.8,
+          "f1": 0.8000000000000002
+        },
+        {
+          "question_id": "q003",
+          "gold_doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+          "gold_sentences": [
+            "S26",
+            "S27",
+            "S28",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S26",
+            "S27",
+            "S28",
+            "S8",
+            "S9"
+          ],
+          "precision": 1.0,
+          "recall": 0.8333333333333334,
+          "f1": 0.9090909090909091
+        }
+      ],
+      "avg_precision": 0.6,
+      "avg_recall": 0.5444444444444444,
+      "avg_f1": 0.5696969696969697
+    },
+    "llm_judge": {
+      "total_questions": 3,
+      "questions_with_rubrics": 3,
+      "answer_score_sum": 10,
+      "evidence_score_sum": 1.7328644501278772,
+      "combined_score_sum": 1.8664322250639387,
+      "lambda_weight": 0.5,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "answer_score_raw": 3,
+          "answer_score_normalized": 0.6,
+          "answer_rationale": "The model answer correctly identifies at least one of the countries (Spain) and mentions the proposed reduction in gas usage, but the explanation is incomplete/inaccurate as it mentions three countries and provides a different reason for Spain's objection, not focusing on lower reliance on Russian gas.",
+          "evidence_score": 0.0,
+          "combined_score": 0.3,
+          "gold_sentences": [
+            "S6"
+          ],
+          "pred_sentences": [
+            "S14",
+            "S27",
+            "S28",
+            "S30"
+          ]
+        },
+        {
+          "question_id": "q002",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer includes all required elements: modernization opening Oman, strategic ties to UK/US, maintaining moderate independent foreign policy, 2011 protests calling for jobs/economic benefits/end corruption, and reforms: expanded legislative power, direct elections, unemployment benefits, and national job creation plan.",
+          "evidence_score": 0.9176470588235294,
+          "combined_score": 0.9588235294117646,
+          "gold_sentences": [
+            "S5",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S3",
+            "S6",
+            "S7",
+            "S8",
+            "S9"
+          ]
+        },
+        {
+          "question_id": "q003",
+          "answer_score_raw": 2,
+          "answer_score_normalized": 0.4,
+          "answer_rationale": "The model answer partially refuses to provide a numerical answer but still includes an estimate of 'massive deployment' which is not supported by the article, and also includes a specific quote that implies a certain level of deployment, which is not in line with the gold answer's description of the article's limitations.",
+          "evidence_score": 0.8152173913043478,
+          "combined_score": 0.6076086956521739,
+          "gold_sentences": [
+            "S26",
+            "S27",
+            "S28",
+            "S7",
+            "S8",
+            "S9"
+          ],
+          "pred_sentences": [
+            "S26",
+            "S27",
+            "S28",
+            "S8",
+            "S9"
+          ]
+        }
+      ],
+      "avg_answer_score": 3.3333333333333335,
+      "avg_evidence_score": 0.5776214833759591,
+      "avg_combined_score": 0.6221440750213129
+    }
+  }
+}

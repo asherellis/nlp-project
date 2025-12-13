@@ -1,0 +1,869 @@
+{
+  "q001": {
+    "question": "According to the article, what controversies or issues arose during Griffin Bell\u2019s confirmation process to become attorney general?",
+    "answer": "Bell's memberships in private segregated clubs and some of his decisions as a federal judge became issues during his confirmation process as attorney general. He was confirmed in January 1977 by a Senate vote of 75 to 21, after sometimes difficult Senate hearings.",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__2adfd057c88ef32c9d192a00f1a5e63bafeb4ace",
+        "score": 3.4117298126220703,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__2a3a431136c38991b963a5788f511020a186e1e5",
+        "score": -8.820357322692871,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__81015926ed3b34684387e6b911fb56d785d6ffdc",
+        "score": -9.062609672546387,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z 2",
+        "score": -9.740518569946289,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": -9.740518569946289,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S13",
+      "S14",
+      "S15"
+    ]
+  },
+  "q002": {
+    "question": "What were the main political tensions surrounding India's proposed civil nuclear partnership with the United States?",
+    "answer": "The proposed civil nuclear partnership with the United States sparked opposition and concerns from the Indian opposition that India was kowtowing to the U.S. and that Prime Minister Manmohan Singh was surrendering India's sovereignty to the United States with the deal. This opposition led to a no-confidence vote against Singh, which he narrowly survived. The Indian leaders of the two communist parties, which hold about 60 seats in Parliament, were among those who accused Singh of surrendering India's sovereignty with the deal.",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 3.2764320373535156,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Burma",
+        "score": -9.38802719116211,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__a86a789b7ec9dce79129d2477b8d3fe20a98bacf",
+        "score": -9.641761779785156,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Nepal",
+        "score": -10.16183090209961,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Yemen",
+        "score": -10.235536575317383,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S5",
+      "S12",
+      "S13"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how many extra ballots did the electoral commission request beyond the number of registered voters, and how many stations reportedly lacked proper accreditation for opposition agents?",
+    "answer": "According to the article, the electoral commission asked for 3.3 million extra ballots, including 250,000 extra postal ballots for soldiers and police, beyond the number of registered voters. The opposition's secretary-general, Tenda Biti, said that the electoral commission claimed to have lost the accreditation for agents at 19 stations.",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -7.049935340881348,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__5eecff9a5c2958be9719d392bef2ecc6f102711e",
+        "score": -10.168355941772461,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Hong_Kong",
+        "score": -10.185215950012207,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-19T17_14_05Z",
+        "score": -10.316301345825195,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-19T17_14_05Z 2",
+        "score": -10.316301345825195,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S7",
+      "S8",
+      "S22",
+      "S17",
+      "S18"
+    ]
+  },
+  "q004": {
+    "question": "Based solely on this historical overview, what percentage of Rwanda\u2019s population in 2024 belongs to the Tutsi ethnic group, and how has that percentage changed over time?",
+    "answer": "The document does not provide sufficient information to answer this question, as it specifically states that the event of the genocide in 1994 \"culminated in the shooting down of HABYARIMANA\u2019s private jet in 1994\" which sparked the genocide, and that \"approximately three-quarters of the Tutsi population\" were killed. It does not provide information on Rwanda's population in 2024 or the percentage of Tutsi in the population in any year after the genocide.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Rwanda_history",
+        "score": -0.26389962434768677,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Rwanda",
+        "score": -0.9366071224212646,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Burundi",
+        "score": -1.9956145286560059,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Congo,_Democratic_Republic_of_the",
+        "score": -5.857875823974609,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Azerbaijan",
+        "score": -6.466870307922363,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S3",
+      "S12",
+      "S13",
+      "S18",
+      "S19"
+    ]
+  },
+  "q005": {
+    "question": "According to the article, what specific political reforms did Sultan Qaboos enact in response to the 2011 demonstrations?",
+    "answer": "In response to the 2011 demonstrations, Sultan Qaboos implemented economic and political reforms, including granting Oman's legislative body more power and authorizing direct elections for its lower house. Additionally, the sultan increased unemployment benefits and issued a royal directive mandating a national public- and private-sector job creation plan.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman_history",
+        "score": 3.5383667945861816,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman",
+        "score": -1.2796887159347534,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z",
+        "score": -7.446036338806152,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-27T17_45_42Z 2",
+        "score": -7.446036338806152,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Hong_Kong",
+        "score": -7.470349311828613,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S7",
+      "S8",
+      "S9"
+    ]
+  },
+  "q006": {
+    "question": "According to the article, who won Mali\u2019s presidential elections in 2013 and 2018, and how did international observers judge the credibility of those elections?",
+    "answer": "Ibrahim Boubacar KEITA won the Malian presidential elections in 2013 and 2018. Aside from security and logistic shortfalls, international observers deemed these elections credible.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali_history",
+        "score": -1.9917149543762207,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali",
+        "score": -2.518935203552246,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Guinea",
+        "score": -4.085862159729004,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Madagascar",
+        "score": -6.024467945098877,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Burma",
+        "score": -6.880492687225342,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S22",
+      "S23"
+    ]
+  },
+  "q007": {
+    "question": "How has the dynastic leadership structure shaped North Korea\u2019s political system and strategic behavior over time?",
+    "answer": "The dynastic leadership structure has shaped North Korea's political system and strategic behavior over time, with leaders such as KIM Il Sung and KIM Jong Un consolidating power and cementing autocratic one-party rule under the Korean Worker's Party (KWP). This leadership structure has prioritized the core objective of unifying Korea under Pyongyang's control, driven by a central ideology of juche (\"self-reliance\") and a demonization of external threats, particularly the US. KIM Jong Un has continued his father's policies, including developing nuclear weapons and ballistic missiles, while also pursuing greater regime control of the economy.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Korea_North_history",
+        "score": -1.8762190341949463,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Korea,_North",
+        "score": -2.969099998474121,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Korea,_South",
+        "score": -3.8113322257995605,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Japan",
+        "score": -4.900208473205566,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Vietnam",
+        "score": -7.452127456665039,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S10",
+      "S12",
+      "S13",
+      "S16",
+      "S18"
+    ]
+  },
+  "q008": {
+    "question": "How did Dominica transition from European colonial rule to an independent state, and what political shift in 1980 significantly changed the country's governance trajectory?",
+    "answer": "Dominica transitioned from European colonial rule to an independent state by becoming a British colony in 1805, an associated state of the UK in 1967, and finally gaining its independence in 1978. In 1980, Mary Eugenia Charles replaced a corrupt and tyrannical administration, marking a significant shift in the country's governance trajectory as she became the first female prime minister in the Caribbean, serving for the next 15 years and improving the country's fortunes.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Dominica",
+        "score": 3.186558961868286,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Rwanda_history",
+        "score": -3.5981762409210205,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Rwanda",
+        "score": -3.712888240814209,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Vanuatu",
+        "score": -5.941521644592285,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Gabon",
+        "score": -5.975897789001465,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S5",
+      "S6"
+    ]
+  },
+  "q009": {
+    "question": "According to the article, what specific impacts did Hurricane Maria have on Dominica in 2017, and which sectors or infrastructure were most heavily damaged?",
+    "answer": "Hurricane Maria passed over the island in 2017, causing extensive damage to structures, roads, communications, and the power supply, and largely destroying critical agricultural areas.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Dominica",
+        "score": -0.7651716470718384,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Sint_Maarten",
+        "score": -6.690497398376465,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Saint_Martin",
+        "score": -8.19499397277832,
+        "rank": 3
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__f731b9775e1d9aced259ba1ad1e56842908a5a89",
+        "score": -9.256155014038086,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__dd9c84b11bdd321e26e4d15f8f6ab8b037cff745",
+        "score": -9.478544235229492,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S7"
+    ]
+  },
+  "q010": {
+    "question": "Based only on this article, what was Mali\u2019s exact defense budget in 2020, and how much financial assistance did it receive from ECOWAS before the sanctions were imposed?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali_history",
+        "score": -6.4991021156311035,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali",
+        "score": -6.6777472496032715,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-11T15_00_23Z",
+        "score": -8.345478057861328,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-11T15_00_23Z 2",
+        "score": -8.345478057861328,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -9.91799259185791,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": []
+  },
+  "q011": {
+    "question": "Based only on this article, what was the total number of jobs created under Oman\u2019s national job creation plan issued after the 2011 unrest?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman_history",
+        "score": -3.3428261280059814,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman",
+        "score": -3.669776678085327,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__United_Arab_Emirates",
+        "score": -7.863182067871094,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-28T10_21_51Z",
+        "score": -8.304018020629883,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-03-28T10_21_51Z 2",
+        "score": -8.304018020629883,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S7",
+      "S9"
+    ]
+  },
+  "q012": {
+    "question": "How did Russia\u2019s inability to make scheduled payments on its foreign bonds escalate into what analysts considered a default, and what specific factors\u2014including sanctions\u2014made the situation effectively unavoidable?",
+    "answer": "Russia's inability to make scheduled payments on its foreign bonds escalated into what analysts considered a default due to the US Treasury Department's Office of Foreign Assets Control (OFAC) effectively blocking Moscow from making payments in late May. This blockage was a result of sanctions imposed over Russia's war in Ukraine, which made it impossible for Russia to transfer interest payments, thereby making the default unavoidable.",
+    "retrieved_docs": [
+      {
+        "doc_id": "russia-ukraine-conflict_2022-06-27T14_23_05Z",
+        "score": 2.8761215209960938,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-16T09_55_42Z",
+        "score": -5.242112159729004,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-16T09_55_42Z 2",
+        "score": -5.242112159729004,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-04T14_54_23Z",
+        "score": -5.331357955932617,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-04T14_54_23Z 2",
+        "score": -5.331357955932617,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S5",
+      "S7",
+      "S9",
+      "S13",
+      "S20"
+    ]
+  },
+  "q013": {
+    "question": "What broader economic and geopolitical consequences did analysts expect from Russia\u2019s 2022 foreign-debt default, and why was the impact considered less severe than the country\u2019s default in the late 1990s?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-04T05_05_34Z 2",
+        "score": 1.595738410949707,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-04T05_05_34Z",
+        "score": 1.595738410949707,
+        "rank": 2
+      },
+      {
+        "doc_id": "russia-ukraine-conflict_2022-06-27T14_23_05Z",
+        "score": -0.578432023525238,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": -3.576550006866455,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z 2",
+        "score": -3.576550006866455,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S3",
+      "S7",
+      "S12",
+      "S13",
+      "S23"
+    ]
+  },
+  "q014": {
+    "question": "How did Russian officials publicly respond to accusations of default, and what rationale did they use to argue that the responsibility for non-payment lay outside Moscow\u2019s control?",
+    "answer": "Russian officials, specifically Vladimir Putin's spokesperson Dmitry Peskov, publicly responded to accusations of default by calling the claims \"absolutely unjustified\" and stating it was \"not our problem\" that sanctions had prevented intermediaries from transferring the payments. Peskov also described the idea of using Russia's frozen foreign currency and gold reserves to compensate for Ukraine's losses as \"completely illegal\" and \"essentially amount to straight-up theft.\"",
+    "retrieved_docs": [
+      {
+        "doc_id": "russia-ukraine-conflict_2022-06-27T14_23_05Z",
+        "score": 1.3745841979980469,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z",
+        "score": -3.195713520050049,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T18_00_08Z 2",
+        "score": -3.195713520050049,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T11_13_23Z 2",
+        "score": -3.5097718238830566,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T11_13_23Z",
+        "score": -3.5097718238830566,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S9",
+      "S17",
+      "S5"
+    ]
+  },
+  "q015": {
+    "question": "How did public statements from President Biden and General Lord Richards describe different weaknesses in Western responses to Russia\u2019s invasion of Ukraine?",
+    "answer": "Public statements from President Biden described a weakness in the Western response as Volodymyr Zelenskiy's reluctance to hear warnings of the Russian invasion, implying that Ukraine's leader may not have been adequately prepared or receptive to Western warnings. In contrast, General Lord Richards accused Western leaders of lacking a long-term strategy in the conflict, adopting a \"let's see how it goes\" approach and failing to show decisiveness.",
+    "retrieved_docs": [
+      {
+        "doc_id": "russia-ukraine-conflict_2022-06-11T12_01_17Z",
+        "score": 4.22055196762085,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-01T16_31_48Z",
+        "score": 0.8648570775985718,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-01T16_31_48Z 2",
+        "score": 0.8648570775985718,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-29T10_03_01Z 2",
+        "score": -0.28496426343917847,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-29T10_03_01Z",
+        "score": -0.28496426343917847,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S4",
+      "S7",
+      "S8",
+      "S12"
+    ]
+  },
+  "q016": {
+    "question": "According to this reporting, what specific risks did Zelenskiy warn would result from Russia blocking Ukrainian ports, and which regions of the world did he say would be most affected?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-13T00_10_53Z 2",
+        "score": 2.4007530212402344,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-13T00_10_53Z",
+        "score": 2.4007530212402344,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z 2",
+        "score": 2.3098931312561035,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 2.3098931312561035,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-30T06_50_38Z",
+        "score": 1.3367931842803955,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": []
+  },
+  "q017": {
+    "question": "Based only on this article, what is the exact number of children reported killed in the war, and how many of those additional confirmed deaths were in Mariupol?",
+    "answer": "The document does not provide sufficient information to answer the question, as it does not mention the exact number of children reported killed in the war, or any confirmed deaths in Mariupol.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z 2",
+        "score": -3.5910186767578125,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-09T02_57_32Z",
+        "score": -3.5910186767578125,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-19T00_41_23Z",
+        "score": -6.611623287200928,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-19T00_41_23Z 2",
+        "score": -6.611623287200928,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__b656dcaaad99e673e566ba17ff07571a71f72007",
+        "score": -6.6382598876953125,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": []
+  },
+  "q018": {
+    "question": "How did Russia\u2019s reduction of gas flows through Nord Stream 1 affect Germany\u2019s projected consumer gas prices and energy planning, and why were German officials concerned about the period following the pipeline\u2019s scheduled July shutdown?",
+    "answer": "Russia's reduction of gas flows through Nord Stream 1 prompted a four- to sixfold rise in market prices, potentially leading to a tripling of gas prices for German consumers, and a doubling or tripling of costs is possible. German officials, including the head of the federal network agency and the minister for economic affairs, are concerned that Russia may not switch the gas tap back on after the scheduled July shutdown of Nord Stream 1 for an annual inspection. This concern has led officials to warn of a high risk of long-term supply shortages, prompting the German economic ministry to announce the second of three energy emergency plan phases.",
+    "retrieved_docs": [
+      {
+        "doc_id": "russia-ukraine-conflict_2022-06-24T10_57_22Z",
+        "score": 7.018144607543945,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-25T01_20_58Z",
+        "score": 5.84140682220459,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-25T01_20_58Z 2",
+        "score": 5.84140682220459,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z 2",
+        "score": 5.253650665283203,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
+        "score": 5.253650665283203,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S4",
+      "S8",
+      "S9",
+      "S6"
+    ]
+  },
+  "q019": {
+    "question": "According to this report, how long could Germany operate without any Russian gas if its storage facilities were completely full, and what specific condition did officials say would trigger this calculation?",
+    "answer": "According to the report, Germany could operate without any Russian gas for approximately two-and-a-half months if its storage facilities were completely full. This calculation is based on the assumption that the storage facilities in Germany were mathematically 100% full.",
+    "retrieved_docs": [
+      {
+        "doc_id": "russia-ukraine-conflict_2022-06-24T10_57_22Z",
+        "score": 4.652122497558594,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z",
+        "score": 2.672250270843506,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-23T15_57_05Z 2",
+        "score": 2.672250270843506,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-10T15_03_38Z 2",
+        "score": 1.5109895467758179,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-10T15_03_38Z",
+        "score": 1.5109895467758179,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S11",
+      "S10"
+    ]
+  },
+  "q020": {
+    "question": "Based on the reporting, what risks did Ukrainian officials and international observers identify regarding Russian military activity around the Zaporizhzhia nuclear plant, and how might these actions affect regional safety or military dynamics?",
+    "answer": "Ukrainian officials and international observers identified the risk of Russian military activity near the Zaporizhzhia nuclear plant, with Energoatom reporting three strikes near a nuclear reactor and the UK's Ministry of Defence raising concerns about the \"security and safety\" of the plant. The EU plan to cut gas use and help Germany wean itself off dependency on Russia may also be related to the regional safety concerns.",
+    "retrieved_docs": [
+      {
+        "doc_id": "russia-ukraine-conflict_2022-08-05T12_31_57Z",
+        "score": 3.989143133163452,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-06T00_59_35Z",
+        "score": 3.672368049621582,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-08-06T00_59_35Z 2",
+        "score": 3.672368049621582,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-04T00_22_52Z",
+        "score": 2.4171860218048096,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-04T00_22_52Z 2",
+        "score": 2.4171860218048096,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S12",
+      "S14"
+    ]
+  },
+  "q021": {
+    "question": "How did pre-colonial political structures, European colonial rule, and post-independence power struggles contribute to the ethnic tensions that culminated in the 1994 genocide in Rwanda?",
+    "answer": "Pre-colonial Rwanda was a centralized country dominated by a Tutsi monarch, with a hierarchical class distinction that sometimes manifested more as a social distinction than an ethnic one. European colonial rule, particularly the Belgians, reinforced existing trends toward autocratic and exclusionary rule, leading to the elimination of traditional Hutu positions of authority and increased resentment among the Hutu population. This simmering resentment eventually boiled over into the 1959 overthrow of the Tutsi king, and the post-independence power struggles, including the rule of President Habyarimana, further exacerbated ethnic tensions, ultimately contributing to the 1994 genocide in Rwanda.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Rwanda_history",
+        "score": -0.26140040159225464,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Rwanda",
+        "score": -1.020925521850586,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Burundi",
+        "score": -1.9100297689437866,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Central_African_Republic",
+        "score": -3.916221857070923,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Congo,_Democratic_Republic_of_the",
+        "score": -4.458949089050293,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S3",
+      "S9",
+      "S12",
+      "S15",
+      "S17"
+    ]
+  },
+  "q022": {
+    "question": "How did opposition parties and civil society actors describe the main threats to the fairness of Zimbabwe\u2019s election, and why were these concerns especially significant given the political context surrounding Robert Mugabe\u2019s long rule?",
+    "answer": "Opposition parties and civil society actors described the main threats to the fairness of Zimbabwe's election as widespread irregularities, rigged or marred by fraud, and the presence of soldiers and police at polling stations. They also pointed to issues such as voter confusion, limited voter education, and the absence of international media and independent observers, which heightened their concerns about the election's fairness. These concerns were especially significant given the political context surrounding Robert Mugabe's long rule, as his 28-year rule had led to economic deterioration, human rights abuses, and a lack of trust in the electoral commission, which critics saw as partisan toward the ruling Zanu-PF party.",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": 0.07657774537801743,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Zimbabwe",
+        "score": -5.251678466796875,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Venezuela",
+        "score": -6.602200508117676,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Central_African_Republic",
+        "score": -7.878419399261475,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__South_Africa",
+        "score": -8.049312591552734,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S4",
+      "S5",
+      "S8",
+      "S26",
+      "S27"
+    ]
+  },
+  "q023": {
+    "question": "How was Russia using its natural gas exports as a tool of political influence over Europe in mid-2022, and what kinds of pressure did this create for EU governments, especially Germany?",
+    "answer": "According to the document, Russia was deliberately cutting supplies of natural gas from Gazprom to impose a \"price terror\" against Europe, making the coming winter as harsh as possible for European countries. This move created pressure for EU governments, as Ukrainian president Volodymyr Zelenskiy called for more sanctions on Moscow, and EU energy chief Kadri Simson said a deal to curb gas use should yield enough gas savings to last through an average winter, if Russia were to fully cut supplies.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 3.734410285949707,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z 2",
+        "score": 3.734410285949707,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z",
+        "score": 2.519869327545166,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-22T15_50_20Z 2",
+        "score": 2.519869327545166,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T22_00_42Z 2",
+        "score": 2.3794045448303223,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S2",
+      "S3",
+      "S5",
+      "S28"
+    ]
+  },
+  "q024": {
+    "question": "According to the historical account provided, which foreign powers competed for influence over Korea in the late 19th and early 20th centuries, and what key wars shaped this period?",
+    "answer": "Korea became the object of intense imperialistic rivalry among the Chinese (its traditional benefactor), Japanese, and Russian empires in the latter half of the 19th and early 20th centuries. The key wars that shaped this period were the Sino-Japanese War (1894-95) and the Russo-Japanese War (1904-05), which led to Korea's occupation by Imperial Japan in 1910.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Korea,_North",
+        "score": -0.4894093871116638,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Korea_North_history",
+        "score": -0.6331877112388611,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Korea,_South",
+        "score": -1.7953060865402222,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Georgia",
+        "score": -5.072653770446777,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Sudan",
+        "score": -6.83712100982666,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S7",
+      "S8"
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "rag_extension3": {
+    "retrieval": {
+      "recall_at_1": 2,
+      "recall_at_5": 2,
+      "total": 3,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "gold_doc_id": "russia-ukraine-conflict_2022-08-05T12_31_57Z",
+          "retrieved_top_1": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z 2",
+          "recall_at_1": 0,
+          "recall_at_5": 0
+        },
+        {
+          "question_id": "q002",
+          "gold_doc_id": "the-world-factbook-by-cia__Mali_history",
+          "retrieved_top_1": "the-world-factbook-by-cia__Mali_history",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        },
+        {
+          "question_id": "q003",
+          "gold_doc_id": "cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "retrieved_top_1": "cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "recall_at_1": 1,
+          "recall_at_5": 1
+        }
+      ],
+      "recall_at_1_pct": 66.66666666666666,
+      "recall_at_5_pct": 66.66666666666666
+    },
+    "citation": {
+      "total_questions": 3,
+      "questions_with_evidence": 3,
+      "precision_sum": 1.5,
+      "recall_sum": 0.8846153846153846,
+      "f1_sum": 1.0555555555555556,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "gold_doc_id": "russia-ukraine-conflict_2022-08-05T12_31_57Z",
+          "gold_sentences": [
+            "S14",
+            "S15"
+          ],
+          "pred_sentences": [
+            "S2",
+            "S20",
+            "S21",
+            "S23",
+            "S3"
+          ],
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0
+        },
+        {
+          "question_id": "q002",
+          "gold_doc_id": "the-world-factbook-by-cia__Mali_history",
+          "gold_sentences": [
+            "S12",
+            "S15",
+            "S16",
+            "S17",
+            "S18",
+            "S19",
+            "S20",
+            "S21",
+            "S25",
+            "S26",
+            "S27",
+            "S28",
+            "S31"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S16",
+            "S17",
+            "S18",
+            "S25"
+          ],
+          "precision": 1.0,
+          "recall": 0.38461538461538464,
+          "f1": 0.5555555555555556
+        },
+        {
+          "question_id": "q003",
+          "gold_doc_id": "cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+          "gold_sentences": [
+            "S15",
+            "S4"
+          ],
+          "pred_sentences": [
+            "S15",
+            "S16"
+          ],
+          "precision": 0.5,
+          "recall": 0.5,
+          "f1": 0.5
+        }
+      ],
+      "avg_precision": 0.5,
+      "avg_recall": 0.2948717948717949,
+      "avg_f1": 0.35185185185185186
+    },
+    "llm_judge": {
+      "total_questions": 3,
+      "questions_with_rubrics": 3,
+      "answer_score_sum": 13,
+      "evidence_score_sum": 1.3131830601092895,
+      "combined_score_sum": 1.9565915300546448,
+      "lambda_weight": 0.5,
+      "per_question": [
+        {
+          "question_id": "q001",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer is mostly complete, stating the 15% reduction figure, a reduction over the winter, and mentioning possible opt-outs/exclusions for certain countries similar to exemptions. The only discrepancy found is the omission of Hungary's opposition and clarity on the plan's immediate effectiveness.",
+          "evidence_score": 0.16666666666666666,
+          "combined_score": 0.48333333333333334,
+          "gold_sentences": [
+            "S14",
+            "S15"
+          ],
+          "pred_sentences": [
+            "S2",
+            "S20",
+            "S21",
+            "S23",
+            "S3"
+          ]
+        },
+        {
+          "question_id": "q002",
+          "answer_score_raw": 4,
+          "answer_score_normalized": 0.8,
+          "answer_rationale": "The model answer provides a mostly complete explanation of events, mentioning the 1991 coup, 2012 rebellion, and 2020-21 coups, with links to loss of territorial control. However, it misses the detail about the 2015 peace accord failures and the 2024 ECOWAS withdrawal.",
+          "evidence_score": 0.45901639344262296,
+          "combined_score": 0.6295081967213115,
+          "gold_sentences": [
+            "S12",
+            "S15",
+            "S16",
+            "S17",
+            "S18",
+            "S19",
+            "S20",
+            "S21",
+            "S25",
+            "S26",
+            "S27",
+            "S28",
+            "S31"
+          ],
+          "pred_sentences": [
+            "S12",
+            "S16",
+            "S17",
+            "S18",
+            "S25"
+          ]
+        },
+        {
+          "question_id": "q003",
+          "answer_score_raw": 5,
+          "answer_score_normalized": 1.0,
+          "answer_rationale": "The model answer accurately states the vote count and the unusual step taken to ensure voting, including the detail about the jailers accompanying the MPs during the vote.",
+          "evidence_score": 0.6875,
+          "combined_score": 0.84375,
+          "gold_sentences": [
+            "S15",
+            "S4"
+          ],
+          "pred_sentences": [
+            "S15",
+            "S16"
+          ]
+        }
+      ],
+      "avg_answer_score": 4.333333333333333,
+      "avg_evidence_score": 0.43772768670309653,
+      "avg_combined_score": 0.6521971766848816
+    }
+  }
+}

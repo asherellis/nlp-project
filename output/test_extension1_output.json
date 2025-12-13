@@ -1,0 +1,110 @@
+{
+  "q001": {
+    "question": "What specific EU energy measure was scheduled to take effect according to the report, and what key details did member states agree on regarding the scope and level of gas reductions?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "abisee/cnn_dailymail__bdad05d8490dbdf8446a50a9a253aa099a4360b5",
+        "score": 62.10542359379564,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": 60.199045217470236,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z 2",
+        "score": 60.199045217470236,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z 2",
+        "score": 58.95555500748489,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-11T10_32_16Z",
+        "score": 58.95555500748489,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S31",
+      "S33",
+      "S29"
+    ]
+  },
+  "q002": {
+    "question": "How did long-term political instability, recurring coups, and the emergence of northern armed groups shape Mali\u2019s struggle to maintain territorial control from 1991 through 2024?",
+    "answer": "The document does not provide sufficient information to answer this question as it primarily focuses on Niger and does not contain any information about Mali's struggle to maintain territorial control from 1991 through 2024.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Niger",
+        "score": 57.26458244876204,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali",
+        "score": 56.07300404458971,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Burkina_Faso",
+        "score": 55.377815852174635,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali_history",
+        "score": 52.58973185132968,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Algeria",
+        "score": 49.91678758966514,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S36",
+      "S35",
+      "S19"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how close was the no-confidence vote against Prime Minister Manmohan Singh, and what unusual step was taken to ensure voting could occur?",
+    "answer": "The no-confidence vote against Prime Minister Manmohan Singh was so crucial that it resulted in a narrow margin of 275-256 votes. To ensure voting could occur, five members of parliament serving prison sentences were freed to cast votes under the watchful eyes of their jailers.",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 74.73875731527855,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__48d1ac3878ec68361770b2f16e32f733c72c194d",
+        "score": 54.03915268835059,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__5eecff9a5c2958be9719d392bef2ecc6f102711e",
+        "score": 52.51928279734706,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z",
+        "score": 50.15220623146735,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-02T04_42_11Z 2",
+        "score": 50.15220623146735,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S1",
+      "S13",
+      "S2"
+    ]
+  }
+}

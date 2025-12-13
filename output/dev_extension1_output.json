@@ -1,0 +1,110 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "The document does not provide sufficient information to answer this question.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T15_09_55Z 2",
+        "score": 46.293328754020706,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-04-27T15_09_55Z",
+        "score": 46.293328754020706,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-11T15_00_23Z 2",
+        "score": 44.71590746361312,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-06-11T15_00_23Z",
+        "score": 44.71590746361312,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-23T23_00_08Z",
+        "score": 44.171819363328645,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S33",
+      "S30",
+      "S1"
+    ]
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "Oman's leadership under Sultan Qaboos managed to balance modernization with foreign policy independence by prioritizing strategic ties to the UK and US, and maintaining a moderate, independent foreign policy. This approach allowed Oman to maintain good relations with its neighbors and avoid external entanglements. In response to the 2011 popular uprisings, domestic pressures for more jobs and economic benefits, as well as an end to corruption, led Sultan Qaboos to expand political participation by implementing economic and political reforms, granting Oman's legislative body more power, and authorizing direct elections for its lower house.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman_history",
+        "score": 71.6580878236812,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman",
+        "score": 63.23112321091185,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__30983fb97d2a5e5aed310cae481c6a38e3270ecb",
+        "score": 44.07678526565054,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Brunei",
+        "score": 39.1236121532379,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Yemen",
+        "score": 38.88144685756259,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S10",
+      "S7"
+    ]
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "The document does not provide sufficient information to answer the question about the total number of soldiers and police deployed across Zimbabwe during the election. However, it mentions that \"there was a massive deployment of soldiers and police at most stations.\" The Movement for Democratic Change Secretary-General Tenda Biti described the deployment as \"massive,\" but journalists inside the country reported a heavy presence of the army and police, disagreeing with Biti's description of it as \"massive.\" As for the proportion of polling stations reporting irregularities, the document mentions that the Zimbabwe Electoral Commission claimed to have lost the accreditation for agents at 19 stations, but it does not provide a specific figure for the total number of polling stations.",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": 73.20807925988407,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__dd9c84b11bdd321e26e4d15f8f6ab8b037cff745",
+        "score": 44.52678321966752,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__South_Africa",
+        "score": 44.52081723243525,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Botswana",
+        "score": 44.05339959683163,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-08T00_12_28Z",
+        "score": 43.88287063592468,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S34",
+      "S36",
+      "S4"
+    ]
+  }
+}

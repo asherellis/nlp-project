@@ -1,0 +1,113 @@
+{
+  "q001": {
+    "question": "What disagreements emerged within the European Union regarding proposed gas-use reductions, and which countries argued that they should not have to cut consumption equally?",
+    "answer": "Disagreements emerged within the European Union regarding proposed gas-use reductions, particularly over the uniform 15% target, with countries such as Spain arguing it was unfair and failed to take account of their national circumstances. Spain, along with Portugal and Greece, led opposition to the proposal, while other countries, including Hungary, also had objections, with Hungary being the only country to voice its outright opposition.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z 2",
+        "score": 3.2468247413635254,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": 3.2468247413635254,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022_07_29 2",
+        "score": -0.1361386477947235,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022_07_29",
+        "score": -0.1361386477947235,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z 2",
+        "score": -0.2293284684419632,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S27",
+      "S28",
+      "S17",
+      "S20"
+    ]
+  },
+  "q002": {
+    "question": "How did Oman's leadership under Sultan Qaboos manage to balance modernization with foreign policy independence, and what domestic pressures in 2011 led him to expand political participation?",
+    "answer": "Oman's leadership under Sultan Qaboos managed to balance modernization with foreign policy independence by prioritizing strategic ties to the UK and US, while maintaining good relations with its neighbors and avoiding external entanglements through a moderate, independent foreign policy. In 2011, domestic pressures led him to expand political participation in response to popular uprisings that swept the Middle East and North Africa, inspiring demonstrations in Oman that called for jobs, economic benefits, and an end to corruption. To address these demands, Sultan Qaboos implemented economic and political reforms, including granting Oman's legislative body more power, authorizing direct elections for its lower house, and increasing unemployment benefits.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman_history",
+        "score": 3.5658183097839355,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Oman",
+        "score": 1.2798707485198975,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Qatar",
+        "score": -3.0148532390594482,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Libya",
+        "score": -4.731563568115234,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Saudi_Arabia",
+        "score": -4.953982353210449,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S6",
+      "S7",
+      "S8"
+    ]
+  },
+  "q003": {
+    "question": "Based solely on this article, how many total soldiers and police were deployed across Zimbabwe during the election, and what proportion of polling stations reported irregularities?",
+    "answer": "The document does not provide sufficient information to determine the total number of soldiers and police deployed across Zimbabwe during the election. However, it mentions a \"massive\" deployment of soldiers and police at most polling stations, according to Movement for Democratic Change Secretary-General Tenda Biti. The document also mentions that journalists inside the country reported a heavy presence of the army and police, but disagreed with Biti's description of it as \"massive.\"",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -2.1156563758850098,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-19T17_14_05Z 2",
+        "score": -7.318011283874512,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-05-19T17_14_05Z",
+        "score": -7.318011283874512,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Zimbabwe",
+        "score": -7.404847145080566,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Zambia",
+        "score": -7.790227890014648,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S8",
+      "S9",
+      "S26",
+      "S27",
+      "S28"
+    ]
+  }
+}

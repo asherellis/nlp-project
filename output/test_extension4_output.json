@@ -1,0 +1,113 @@
+{
+  "q001": {
+    "question": "What specific EU energy measure was scheduled to take effect according to the report, and what key details did member states agree on regarding the scope and level of gas reductions?",
+    "answer": "According to the report, the EU energy measure scheduled to take effect was a voluntary 15% reduction in gas usage over the winter, with the option for it to become mandatory if Russia ordered a complete shutdown of gas to Europe. Member states agreed on exemptions for island nations and possible exclusions for countries little connected to the European gas network, which would blunt the overall effect in the event of a full-blown gas crisis.",
+    "retrieved_docs": [
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z",
+        "score": -0.8401563167572021,
+        "rank": 1
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-26T17_01_01Z 2",
+        "score": -0.8401563167572021,
+        "rank": 2
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z",
+        "score": -4.037206172943115,
+        "rank": 3
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-27T00_29_03Z 2",
+        "score": -4.037206172943115,
+        "rank": 4
+      },
+      {
+        "doc_id": "hugginglearners/russia-ukraine-conflict-articles__2022-07-19T18_15_40Z",
+        "score": -4.361045837402344,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S2",
+      "S3",
+      "S20",
+      "S21",
+      "S23"
+    ]
+  },
+  "q002": {
+    "question": "How did long-term political instability, recurring coups, and the emergence of northern armed groups shape Mali\u2019s struggle to maintain territorial control from 1991 through 2024?",
+    "answer": "Mali's struggle to maintain territorial control was shaped by long-term political instability, recurring coups, and the emergence of northern armed groups, which led to a rebellion and military coup in 2012 and further destabilization. A 2013 French-led military intervention managed to retake most of the north, but the government's grasp in the region remains weak with local militias, terrorists, and insurgent groups competing for control. In 2021, a military takeover led by Colonel Assimi GOITA further destabilized the country, and the transition government postponed presidential elections indefinitely in September 2023.",
+    "retrieved_docs": [
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali_history",
+        "score": -0.38702234625816345,
+        "rank": 1
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Mali",
+        "score": -2.0214669704437256,
+        "rank": 2
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Syria",
+        "score": -2.6523115634918213,
+        "rank": 3
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Guinea-Bissau",
+        "score": -3.389925003051758,
+        "rank": 4
+      },
+      {
+        "doc_id": "the-world-factbook-by-cia__Comoros",
+        "score": -4.05029821395874,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S12",
+      "S15",
+      "S16",
+      "S17",
+      "S18"
+    ]
+  },
+  "q003": {
+    "question": "According to the article, how close was the no-confidence vote against Prime Minister Manmohan Singh, and what unusual step was taken to ensure voting could occur?",
+    "answer": "The no-confidence vote against Prime Minister Manmohan Singh was crucial to the survival of his government, with the vote being 275-256. To ensure voting could occur, five members of parliament serving prison sentences were freed to cast votes, under the watchful eyes of their jailers.",
+    "retrieved_docs": [
+      {
+        "doc_id": "cnn_dailymail__c977693b405a89cec98e53b05199e608fd6adeca",
+        "score": 4.308495044708252,
+        "rank": 1
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__ed1f7853eacb3c5422b95af36014d7826a618486",
+        "score": -7.777795791625977,
+        "rank": 2
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__b66d1fab1f4c45793043916ca349143dcd0bbb3e",
+        "score": -7.78662109375,
+        "rank": 3
+      },
+      {
+        "doc_id": "cnn_dailymail__9a15663058028878027f6aa039fb3185c2ff52c8",
+        "score": -8.184184074401855,
+        "rank": 4
+      },
+      {
+        "doc_id": "abisee/cnn_dailymail__c52fc4eee691e0385518635e2ef819edf572d198",
+        "score": -8.903804779052734,
+        "rank": 5
+      }
+    ],
+    "evidence_sentences": [
+      "S15",
+      "S16"
+    ]
+  }
+}
