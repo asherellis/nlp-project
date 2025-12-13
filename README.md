@@ -1,20 +1,26 @@
 # CIS 5300 Term Project: Document-Grounded Question Answering with Evidence Citation
 
+## Motivation
+
+Intelligence analysts today face a difficult trade-off when investigating national security issues. They can comb through lengthy reports and documents manually—a time-consuming process—or query large language models for quick summaries that often hallucinate details and lack verifiable sourcing. What's missing is a middle ground: a tool that delivers fast, trustworthy answers with transparent citations.
+
+This project aims to fill that gap by building a retrieval-augmented generation (RAG) system that provides concise, accurate answers while showing precisely where in the source documents the information originated. This approach provides both the efficiency and accountability that analytical work demands.
+
 ## Project Overview
 
 This project implements a document-grounded question answering system that:
 1. Retrieves relevant documents from a corpus of 787 documents (news articles + CIA World Factbook)
-2. Generates answers grounded in retrieved documents
+2. Generates answers grounded in retrieved documents using Llama 3.1 8B (via Groq API)
 3. Cites specific sentence IDs as evidence
 
 ## Team Members
-- Asher Ellis
-- Chih Yu Tsai
 - Vincent Lin
 - Risha Kumar
+- Chih Yu Tsai
+- Asher Ellis
 
 ## Acknowledgments
-Thanks to Anirudh Bharadwaj for his guidance as our TA + project advisor!
+Thanks to Anirudh Bharadwaj for his guidance as our TA and project advisor!
 
 ## Project Structure
 
@@ -33,7 +39,7 @@ cis5300_project_unified/
 │   └── README.md            # Code usage instructions
 ├── data/                    # Training/dev/test data
 │   ├── NLP Project Data/    # Question-answer pairs (JSONL)
-│   ├── corpus/              # Document corpus (1004 documents)
+│   ├── corpus/              # Document corpus (787 documents)
 │   └── README.md            # Data description
 ├── output/                  # Model predictions and evaluation results
 │   └── README.md            # Output description
