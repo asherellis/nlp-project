@@ -1,4 +1,4 @@
-# CIS 5300 Term Project: Document-Grounded Question Answering with Evidence Citation
+# CIS 5300 Term Project: A Grounded Q&A Assistant for Intelligence Analysts
 
 ## Motivation
 
